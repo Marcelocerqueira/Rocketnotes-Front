@@ -61,6 +61,8 @@ Um projeto elaborado pra fazer suas anotações preferidas, colocando links e ta
 
 ---
 ## Deploy do projeto.
+
+(https://notesfront.netlify.app/)
 ---
 
 ## 📝 License
